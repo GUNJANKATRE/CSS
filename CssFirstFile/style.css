@@ -1,0 +1,29 @@
+*{
+    background-image: url(backImg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+    
+
+}
+#tag{
+    color: white;
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.hi{
+    color: white;
+    text-align:center ;
+    font-family:'Courier New', Courier, monospace;
+}
+.A{
+    color:azure;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.B{
+    color:azure;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
